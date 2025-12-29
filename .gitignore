@@ -1,0 +1,18 @@
+# API Keys and Secrets 
+.env 
+.env.local 
+*.key 
+*.pem 
+ECHO is on.
+# Python 
+__pycache__/ 
+*.py[cod] 
+*$py.class 
+.venv/ 
+venv/ 
+env/ 
+ECHO is on.
+# Other 
+*.zip 
+backend[04_aug].zip 
+food_printing_app[04_aug].zip 
