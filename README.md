@@ -1,16 +1,12 @@
-# food_printing_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 3D Food Printing App 
+ 
+Full-stack AI-powered food design application. 
+ 
+## Project Structure 
+- \`backend/\` - Flask Python API with Gemini AI and Meshy 3D generation 
+- \`food_printing_app/\` - Flutter cross-platform mobile app 
+ 
+## Setup 
+1. Copy \`.env.example\` to \`.env\` in backend folder 
+2. Add your API keys to \`.env\` 
+4. Run Flask: \`python app.py\` 
