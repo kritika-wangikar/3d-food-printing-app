@@ -6,10 +6,11 @@ Full-stack AI-powered mobile app that turns food ideas into 3D-printable designs
  
 ## Project Structure 
 - \`backend/\` - Flask Python API with Gemini AI and Meshy 3D generation 
-- \`food_printing_app/\` - Flutter cross-platform mobile app 
+- \`frontend/\` - Flutter cross-platform mobile app 
  
 ## Setup 
 1. Copy \`.env.example\` to \`.env\` in backend folder 
 2. Add your API keys to \`.env\` 
 4. Run Flask: \`python app.py\` 
+
 
